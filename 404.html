@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My GitHub Page</title>
+</head>
+<body>
+    <div id="content"></div>
+    <script>
+        // 检查 window.location.href
+        var path = window.location.href;
+        // 根据路径加载不同的页面
+        if (path.includes("springcloud")) {
+            document.getElementById("content").innerHTML = '<object type="text/html" data="springcloud.html" ></object>';
+        } else {
+            document.getElementById("content").innerHTML = '<h1>Welcome to my GitHub Page!</h1>';
+        }
+    </script>
+</body>
+</html>
