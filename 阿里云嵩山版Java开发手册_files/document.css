@@ -1,0 +1,77 @@
+﻿@charset "UTF-8"; * {margin:0; padding:0; text-indent:0; }
+ .s1 { color: #525252; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 24pt; }
+ .s2 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s3 { color: #C00000; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s4 { color: #FFC000; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s9 { color: #333; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s10 { color: #365F91; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 24pt; }
+ .s11 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .a { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s12 { color: #333; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s13 { color: #333; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s14 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s15 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 22.5pt; }
+ .s16 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 18pt; }
+ .s18 { color: #FF4500; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s19 { color: #C6244E; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s21 { color: #967B00; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s23 { color: #FF4500; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s24 { color: #009757; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .p, p { color: #333; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; margin:0pt; }
+ .s25 { color: #23292D; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s26 { color: #23292D; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s27 { color: #967B00; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s28 { color: #07A; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s29 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s30 { color: #999; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s31 { color: #6F8090; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s32 { color: #DD4968; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s33 { color: #A67E58; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s35 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s40 { color: #333; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s41 { color: #C6244E; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s42 { color: #00F; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s43 { color: #333; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s45 { color: #23292D; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s46 { color: #23292D; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
+ .s47 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
+ .s48 { color: #23292D; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s50 { color: #555869; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s51 { color: #23292D; font-family:"Segoe UI", sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s52 { color: #23292D; font-family:Consolas, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ .s53 { color: #23292D; font-family:"Segoe UI", sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s54 { color: #00F; font-family:"Segoe UI", sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s55 { color: #333; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
+ .s56 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ .s57 { color: #FF4500; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s58 { color: #F00; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s59 { color: #00F; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s61 { color: #967B00; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ .s62 { color: #555869; font-family:"Segoe UI", sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s63 { color: #00F; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: bold; text-decoration: underline; font-size: 10.5pt; }
+ .s64 { color: #00F; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s65 { color: black; font-family:宋体; font-style: normal; font-weight: normal; text-decoration: none; font-size: 18pt; }
+ .s66 { color: #333; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s68 { color: #999; font-family:Consolas, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ .s71 { color: #23292D; font-family:Consolas, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s72 { color: #333; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s73 { color: #C00000; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s74 { color: #333; font-family:Wingdings; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ .s75 { color: #333; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ .s76 { color: #333; font-family:微软雅黑, sans-serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 11pt; }
+ .s77 { color: #333; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s78 { color: #333; font-family:Symbol, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ .s79 { color: #333; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10.5pt; }
+ .s80 { color: black; font-family:Wingdings; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ .s81 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ .s82 { color: #333; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ .s83 { color: #525252; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 16pt; }
+ .s84 { color: #BEBEBE; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s85 { color: #00F; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: underline; font-size: 9pt; }
+ .s86 { color: #00F; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: bold; text-decoration: underline; font-size: 9pt; }
+ .s87 { color: #333; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 9pt; }
+ .s88 { color: black; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s89 { color: #008000; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s90 { color: #23292D; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s91 { color: #03C; font-family:微软雅黑, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ table, tbody {vertical-align: top; overflow: visible; }
